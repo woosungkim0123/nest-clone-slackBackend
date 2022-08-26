@@ -14,10 +14,3 @@ async function bootstrap() {
   }
 }
 bootstrap();
-
-/*
-express와 nest의 큰 차이는 모듈
-express dotenv => nest의 모듈로 만들어서 다시 연결
-그럴빠엔 그냥 미리 dotenv 모듈로 감싸놓은 패키지를 사용 
-
-*/
